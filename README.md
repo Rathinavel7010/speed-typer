@@ -12,8 +12,6 @@ A colorful, motion-rich typing speed test built with **React**, **Vite**, and **
 - ⌨️ Visual keyboard that highlights the key you pressed
 - 🌈 Gradient flowing text, glass-morphism cards, smooth motion
 
-## 🚀 Getting Started
-
 ```bash
 # Install dependencies
 npm install
